@@ -1,4 +1,4 @@
-/*cambios aplicados */
+
 package arreglos;
 
 public class Arreglos {
